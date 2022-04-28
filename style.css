@@ -10,6 +10,7 @@ body {
 .hum_btn {
   margin-left: 209px;
 }
+
 .navbar {
   display: inline-flex;
   margin-top: 38px;
@@ -23,7 +24,6 @@ body {
 .header-wrapper {
   display: flex;
   flex-direction: column;
-
   margin-left: 24px;
   height: 718px;
 }

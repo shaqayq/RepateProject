@@ -29,17 +29,17 @@ body {
 }
 
 .intro {
-    width: 327px;
-    font-size: 49px;
-    margin-top: 84px;
-    margin-bottom: 0;
-    color:#172B4D;
+  width: 327px;
+  font-size: 49px;
+  margin-top: 84px;
+  margin-bottom: 0;
+  color: #172b4d;
 }
 
 .paragraph {
   font-size: 20px;
   width: 332px;
-  color:#344563;
+  color: #344563;
 }
 
 .conect_info {

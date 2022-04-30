@@ -45,6 +45,7 @@ body {
 .conect_info {
   text-decoration: none;
   color: #7f8cff;
+  margin-bottom: 0;
 }
 
 .social_item {
@@ -72,7 +73,8 @@ body {
   margin-right: 24px;
   border-radius: 30px;
   border-style: ridge;
-  height: 539px;
+  height: 555px;
+  background-color: #fff;
 }
 
 .screenshoot {
@@ -135,7 +137,8 @@ body {
   margin-right: 24px;
   border-radius: 30px;
   border-style: ridge;
-  height: 574px;
+  height: 603px;
+  background-color: #fff;
 }
 
 .about {
@@ -146,6 +149,7 @@ body {
   margin-top: 61px;
   height: 718px;
   border-top-right-radius: 30px;
+  background-image: url(./image/header-background-mobile.png);
 }
 
 .about_title {
@@ -208,4 +212,29 @@ body {
 
 .right_vecto2 {
   margin-left: 242px;
+}
+
+.h_section {
+    margin-left: 24px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 43px;
+}
+
+.h_about {
+  font-size: 49px;
+  width: 100px;
+  margin-bottom: 0;
+}
+
+.button {
+  color: #396DF2;
+}
+
+.h_btn{
+  
+  font-size: 18px;
+  margin: 0;
+  color: #396DF2;
+
 }

@@ -2,17 +2,12 @@
 
 #  Portfolio
 
-> In this project I built the header and headline sections of a mobile version of a portfolio.
+> In this project I built the header and wrok section of a mobile version of a portfolio.
 
 
 ## Built With
 
 - Major languages: HTML and CSS
-
-## Live Demo (if available)
-
-[Image for live demo](https://github.com/shaqayq/Portfolio/blob/mobile_version_setup/image/portfolio.PNG)
-
 
 ## Getting Started
 

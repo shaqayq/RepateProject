@@ -76,12 +76,12 @@ body {
 }
 
 .screenshoot {
-    width: 295px;
-    margin: 24px 24px 24px 15px;
+  width: 295px;
+  margin: 24px 24px 24px 15px;
 }
 
 .projectTitle {
-  margin-left: 24px;
+  margin-left:24px;
 }
 
 .canopy {
@@ -96,11 +96,11 @@ body {
 }
 
 .work_paragraph {
-    margin-top: 0px;
-    width: 295px;
-    margin-left: 24px;
-    font-size: 19px;
-    color:#344563;
+  margin-top:0;
+  width: 295px;
+  margin-left:24px;
+  font-size: 19px;
+  color: #344563;
 }
 
 .lang {
@@ -113,7 +113,7 @@ body {
 .lang li {
   display: inline-flex;
   padding: 4px 12px 4px 12px;
-  background-color: #EBEBFF;
+  background-color: #ebebff;
   border-radius: 8px;
 }
 
@@ -140,26 +140,26 @@ body {
 
 .about {
   display: flex;
-    flex-direction: column;
-    margin-left: 24px;
-    margin-right: 10px;
-    margin-top: 61px;
-    height: 718px;
-    border-top-right-radius: 30px;
+  flex-direction: column;
+  margin-left: 24px;
+  margin-right: 10px;
+  margin-top: 61px;
+  height: 718px;
+  border-top-right-radius: 30px;
 }
 
 .about_title {
   width: 135px;
-    margin-top: 58px;
+  margin-top: 58px;
 }
 
 .resume_btn {
   width: 191px;
-    padding: 10px;
-    margin-left: -8px;
-    background-color: #fff;
-    border: 1px solid #4274f2;
-    border-radius: 5px;
+  padding: 10px;
+  margin-left: -8px;
+  background-color: #fff;
+  border: 1px solid #4274f2;
+  border-radius: 5px;
 }
 
 .languages {
@@ -173,13 +173,13 @@ body {
 
 .catagoty {
   list-style: none;
-  padding-left: 0; 
+  padding-left: 0;
 }
 
 .catagoty li {
   width: 318px;
   border-radius: 6px;
-  background-color: #F7F7F9;
+  background-color: #f7f7f9;
   margin-bottom: 11px;
   margin-bottom: 34px;
 }
@@ -199,7 +199,6 @@ body {
 .lists li {
   margin-bottom: 12px;
 }
-
 
 .right_vecto {
   margin-left: 162px;

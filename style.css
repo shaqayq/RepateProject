@@ -100,7 +100,7 @@ body {
   width:295px;
   margin-left: 24px;
   font-size: 19px;
-  color:#344563;
+  color: #344563;
 }
 
 .lang {
@@ -157,18 +157,18 @@ body {
   width: 191px;
   padding: 10px;
   margin-left: -8px;
-  background-color: #fff;
+  background-color:#fff;
   border: 1px solid #4274f2;
-  border-radius: 5px;
+  border-radius:5px;
 }
 
 .languages {
-  margin-top: 58px;
+  margin-top:58px;
 }
 
 .vector {
   margin-left: 172px;
-  margin-bottom: 9px;
+  margin-bottom:9px;
 }
 
 .catagoty {
@@ -189,22 +189,22 @@ body {
 }
 
 .lang_logo {
-  margin-left: 21px;
+  margin-left:21px;
 }
 
 .lists {
-  list-style: none;
+  list-style:none;
   padding: 0;
 }
+
 .lists li {
-  margin-bottom: 12px;
+  margin-bottom:12px;
 }
 
-
 .right_vecto {
-  margin-left: 162px;
+  margin-left:162px;
 }
 
 .right_vecto2 {
-  margin-left: 242px;
+  margin-left:242px;
 }

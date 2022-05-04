@@ -289,7 +289,8 @@ body {
 .text_area {
   margin-left: 39px;
   width: 297px;
-  margin-bottom: 22px;
+  height: 100px;
+  margin-bottom: 25px;
   border-radius: 6px;
   border: 1px solid #CFD8DC;
   height: 200px;
@@ -306,4 +307,8 @@ body {
 
 .border_img {
   margin-left: 107px;
+}
+
+input {
+  padding-left:10px;
 }

@@ -147,7 +147,7 @@ body {
   margin-left: 24px;
   margin-right: 10px;
   margin-top: 61px;
-  height: 718px;
+  height: 947px;
   border-top-right-radius: 30px;
   background-image: url(./image/header-background-mobile.png);
 }
@@ -235,4 +235,81 @@ body {
   font-size: 18px;
   margin: 0;
   color: #396df2;
+}
+
+.list_item {
+  font-size: 24px;
+}
+
+.contact {
+  background-image: url(./image/contactbg.png), url(./image/Contactme.png);
+  background-position: right top, left top;
+  background-repeat: no-repeat, no-repeat;
+  background-size: 203px, 375px;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 120px;
+}
+
+.contact-body {
+  height: 622px;
+  background-size: 279px;
+}
+
+.h_contact {
+  color: #fff;
+  font-size: 45px;
+  margin-top: 66px;
+  margin-left: 84px;
+  margin-bottom: 0;
+}
+
+.contact-paragraph {
+  margin-left: 42px;
+  color: #fff;
+  font-size: 22px;
+  width: 300px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.name,
+.email {
+  margin-left: 39px;
+  height: 33px;
+  width: 297px;
+  margin-bottom: 22px;
+  border-radius: 6px;
+  border: 1px solid #cfd8dc;
+}
+
+.text_area {
+  margin-left: 39px;
+  width: 297px;
+  margin-bottom: 25px;
+  border-radius: 6px;
+  border: 1px solid #cfd8dc;
+  height: 200px;
+}
+
+.contact_btn {
+  width: 127px;
+  padding: 10px;
+  margin-left: 38px;
+  background-color: #fff;
+  border: 1px solid #4274f2;
+  border-radius: 5px;
+}
+
+.contact_btn:hover {
+  background-color: #48f242;
+}
+
+.border_img {
+  margin-left: 107px;
+}
+
+input {
+  padding-left: 10px;
 }

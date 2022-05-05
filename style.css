@@ -274,7 +274,8 @@ body {
   margin-top: 10px;
 }
 
-.name {
+.name,
+.email {
   margin-left: 39px;
   height: 33px;
   width: 297px;
@@ -302,8 +303,7 @@ body {
 }
 
 .contact_btn:hover {
-  background-color: #008cba;
-  color: #fff;
+  background-color: #48f242;
 }
 
 .border_img {

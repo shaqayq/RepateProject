@@ -301,6 +301,12 @@ body {
   border-radius: 5px;
 }
 
+.contact_btn:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+
 .border_img {
   margin-left: 107px;
 }
@@ -308,3 +314,4 @@ body {
 input {
   padding-left: 10px;
 }
+

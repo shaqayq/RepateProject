@@ -302,10 +302,9 @@ body {
 }
 
 .contact_btn:hover {
-  background-color: #008CBA;
-  color: white;
+  background-color: #008cba;
+  color: #fff;
 }
-
 
 .border_img {
   margin-left: 107px;
@@ -314,4 +313,3 @@ body {
 input {
   padding-left: 10px;
 }
-

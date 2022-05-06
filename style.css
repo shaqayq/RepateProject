@@ -96,14 +96,6 @@ body {
   
 }
 
-.screen {
-  transition: width 2s;
-}
-
-.screen :hover {
-  width: 300px;
-}
-
 .projectTitle {
   margin-left: 24px;
 }

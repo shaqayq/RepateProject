@@ -4,7 +4,7 @@ body {
 }
 
 .top_header {
-  margin: 21px;
+  margin: 0;
 }
 
 .hum_btn {
@@ -82,8 +82,8 @@ body {
   flex-direction: column;
   align-items: flex-start;
   border-width: 1px;
-  width: 327px;
-  margin-left: 24px;
+  width: 83%;
+  margin-left: 15px;
   margin-right: 24px;
   border-radius: 30px;
   border-style: ridge;
@@ -146,8 +146,8 @@ body {
   flex-direction: column;
   align-items: flex-start;
   border-width: 1px;
-  width: 327px;
-  margin-left: 24px;
+  width: 83%;
+  margin-left: 15px;
   margin-right: 24px;
   border-radius: 30px;
   border-style: ridge;
@@ -299,7 +299,7 @@ body {
   list-style: none;
   padding-left: 0;
   background-color: #e1e1e1;
-  width: 373px;
+  width: 90%;
   height: 65px;
   border-radius: 9px;
 }
@@ -396,7 +396,7 @@ input {
 
 @media screen and (min-width: 768px) {
   .top_header {
-    width: 1440px;
+    width: 100%;
     height: 72px;
   }
 
@@ -411,7 +411,7 @@ input {
     background-repeat: no-repeat;
     background-size: 100%, cover;
     height: 852px;
-    width: 1440px;
+    width: 100%;
   }
 
   .header-wrapper {
@@ -439,7 +439,7 @@ input {
     flex-direction: row;
     align-items: flex-start;
     border-width: 1px;
-    width: 100%;
+    width: 91%;
     margin-left: 24px;
     margin-right: 24px;
     border-radius: 30px;
@@ -492,7 +492,7 @@ input {
     flex-direction: row-reverse;
     align-items: flex-start;
     border-width: 1px;
-    width: 100%;
+    width: 91%;
     margin-left: 24px;
     margin-right: 24px;
     border-radius: 30px;
@@ -613,7 +613,7 @@ input {
   }
 
   .logo {
-    margin-right: 408px;
+    margin-right: 382px;
   }
 
   .left-about {

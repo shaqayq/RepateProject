@@ -14,8 +14,7 @@ body {
 .content {
   display: flex;
   justify-content: center;
-  background-image: url(./image/header-shapesmobile.png),
-    url(./image/header-backgroundmobile);
+  background-image: url(./image/header-shapesmobile.png), url(./image/header-backgroundmobile);
   background-repeat: no-repeat;
   background-size: 100%, cover;
   height: 852px;
@@ -408,8 +407,7 @@ input {
   .content {
     display: flex;
     justify-content: center;
-    background-image: url(./image/desktop-img/Header\ bg@2x.png),
-      url(./image/desktop-img/headerbackground\ .png);
+    background-image: url(./image/desktop-img/Header\ bg@2x.png), url(./image/desktop-img/headerbackground\ .png);
     background-repeat: no-repeat;
     background-size: 100%, cover;
     height: 852px;
@@ -532,8 +530,7 @@ input {
   }
 
   .contact {
-    background-image: url(./image/desktop-img/contactformbackgroundshapes.png),
-      url(./image/desktop-img/background.png);
+    background-image: url(./image/desktop-img/contactformbackgroundshapes.png), url(./image/desktop-img/background.png);
     background-size: 1440px, cover;
     background-repeat: no-repeat;
     background-color: #fff;

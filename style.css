@@ -14,8 +14,7 @@ body {
 .content {
   display: flex;
   justify-content: center;
-  background-image: url(./image/header-shapesmobile.png),
-    url(./image/header-backgroundmobile);
+  background-image: url(./image/header-shapesmobile.png),url(./image/header-backgroundmobile);
   background-repeat: no-repeat;
   background-size: 100%, cover;
   height: 852px;
@@ -235,6 +234,7 @@ body {
   margin-bottom: 0;
   font-size: 40px;
 }
+
 .h_section2 {
   width: 20px;
   margin-left: 24px;
@@ -242,6 +242,7 @@ body {
   margin-bottom: 0;
   font-size: 40px;
 }
+
 .about-title {
   font-size: 47px;
   width: 30px;
@@ -252,6 +253,7 @@ body {
   text-decoration: none;
   color: #72b7f9;
 }
+
 .about-paraghraph {
   font-size: 21px;
   width: 321px;
@@ -277,6 +279,7 @@ body {
   list-style: none;
   padding-left: 0;
 }
+
 .lang-list li {
   padding-bottom: 20px;
 }
@@ -313,6 +316,7 @@ body {
 .victor {
   float: right;
 }
+
 .contact {
   background-image: url(./image/contactbg.png), url(./image/Contactme.png);
   background-position: right top, left top;
@@ -403,8 +407,7 @@ input {
   .content {
     display: flex;
     justify-content: center;
-    background-image: url(./image/desktop-img/Header\ bg@2x.png),
-      url(./image/desktop-img/headerbackground\ .png);
+    background-image: url(./image/desktop-img/Header\ bg@2x.png),url(./image/desktop-img/headerbackground\ .png);
     background-repeat: no-repeat;
     background-size: 100%, cover;
     height: 852px;
@@ -534,8 +537,7 @@ input {
   }
 
   .contact {
-    background-image: url(./image/desktop-img/contactformbackgroundshapes.png),
-      url(./image/desktop-img/background.png);
+    background-image: url(./image/desktop-img/contactformbackgroundshapes.png), url(./image/desktop-img/background.png);
     background-size: 1440px, cover;
     background-repeat: no-repeat;
     background-color: #fff;
@@ -605,15 +607,18 @@ input {
   .desk-item {
     display: inline;
   }
+
   .nav-item li {
     display: inline;
     padding-right: 53px;
   }
+
   .nav-item li a {
     text-decoration: none;
     color: #6070ff;
     font-size: 21px;
   }
+  
   .logo {
     margin-right: 408px;
   }

@@ -93,6 +93,15 @@ body {
 .screenshoot {
   width: 295px;
   margin: 24px 24px 24px 15px;
+  
+}
+
+.screen {
+  transition: width 2s;
+}
+
+.screen :hover {
+  width: 300px;
 }
 
 .projectTitle {
@@ -592,6 +601,15 @@ input {
   }
   .logo {
     margin-right: 408px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+
+  @keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+   
   }
 
   .about {

@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-#  Portfolio
+#  Portfolio Desktop
 
 > In this project I built the header and wrok section of a mobile version of a portfolio.
 

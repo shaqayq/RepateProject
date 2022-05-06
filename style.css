@@ -14,18 +14,19 @@ body {
 .content {
   display: flex;
   justify-content: center;
-  background-image: url(./image/header-shapesmobile.png) , url(./image/header-backgroundmobile);
+  background-image: url(./image/header-shapesmobile.png),
+    url(./image/header-backgroundmobile);
   background-repeat: no-repeat;
   background-size: 100%, cover;
   height: 852px;
-  
 }
+
 .navbar {
   display: inline-flex;
   margin-top: 38px;
 }
 
-.nav-item{
+.nav-item {
   list-style: none;
   display: inline;
 }
@@ -126,7 +127,6 @@ body {
   margin-top: 0;
 }
 
-
 .lang li {
   display: inline-flex;
   padding: 4px 12px 4px 12px;
@@ -134,14 +134,12 @@ body {
   border-radius: 8px;
 }
 
-
 .btn {
   padding: 10px;
   background-color: #fff;
   border: 1px solid #4274f2;
   border-radius: 5px;
   margin-left: 21px;
-  
 }
 
 .work_section2 {
@@ -249,7 +247,7 @@ body {
   width: 30px;
   margin-bottom: 21px;
 }
- 
+
 .about-connect {
   text-decoration: none;
   color: #72b7f9;
@@ -257,7 +255,6 @@ body {
 .about-paraghraph {
   font-size: 21px;
   width: 321px;
-
 }
 
 .button {
@@ -284,17 +281,16 @@ body {
   padding-bottom: 20px;
 }
 
-.child-list{
+.child-list {
   list-style: none;
   padding-left: 0;
 }
 
 .child-list li {
   padding-bottom: 11px;
-
 }
 
-.child-list2{
+.child-list2 {
   display: flex;
   flex-direction: row;
   list-style: none;
@@ -308,7 +304,6 @@ body {
 .h-lang {
   margin-left: 20px;
   margin-top: 0;
-
 }
 
 .item-list {
@@ -391,14 +386,11 @@ input {
   padding-left: 10px;
 }
 
-
-
-.break{
+.break {
   display: none;
 }
 
-@media screen  and (min-width: 768px){
- 
+@media screen and (min-width: 768px) {
   .top_header {
     width: 1440px;
     height: 72px;
@@ -411,7 +403,8 @@ input {
   .content {
     display: flex;
     justify-content: center;
-    background-image: url(./image/desktop-img/Header\ bg@2x.png) , url(./image/desktop-img/headerbackground\ .png);
+    background-image: url(./image/desktop-img/Header\ bg@2x.png),
+      url(./image/desktop-img/headerbackground\ .png);
     background-repeat: no-repeat;
     background-size: 100%, cover;
     height: 852px;
@@ -421,7 +414,7 @@ input {
   .header-wrapper {
     margin-top: 115px;
   }
-  
+
   .intro {
     font-size: 40px;
     width: 300px;
@@ -436,7 +429,6 @@ input {
     margin-top: 185px;
     display: grid;
     row-gap: 88px;
-  
   }
 
   .work_section {
@@ -457,7 +449,7 @@ input {
     width: 563px;
     margin: 20px 20px 10px 20px;
   }
-  
+
   .right-side {
     margin-top: 47px;
     flex-direction: column;
@@ -467,22 +459,16 @@ input {
   .h_section {
     font-size: 40px;
   }
-  
+
   .canopy {
     list-style: none;
     padding-left: 0;
   }
-  
+
   .canopy li {
     display: inline;
     padding-right: 10px;
     color: gray;
-  }
-  
-  .work_paragraph {
-    font-size: 20px;
-    width: 474px;
-
   }
 
   .h_btn {
@@ -497,7 +483,7 @@ input {
     border-radius: 5px;
     margin-left: 24px;
   }
-  
+
   .work_section2 {
     display: flex;
     flex-direction: row-reverse;
@@ -511,7 +497,7 @@ input {
     height: 497px;
     background-color: #fff;
   }
-  
+
   .left-side {
     flex-direction: column;
     margin-left: 63px;
@@ -519,7 +505,7 @@ input {
     margin-right: 120px;
     margin-top: 47px;
   }
-  
+
   .screenshoot2 {
     width: 499px;
     margin: 20px 20px 13px 0;
@@ -528,20 +514,8 @@ input {
   .work_paragraph {
     font-size: 20px;
     width: 474px;
-
   }
 
-  .about {
-    background-image: url(./image/aboutmyselfback.png);
-    background-size: cover;
-    display: -webkit-flex;
-    display: flex;
-    flex-direction: row;
-    margin-top: 110px;
-    width: 1279px;
-    height: 565px;
-  }
-  x
   .left-about {
     flex-direction: column;
     margin-left: 63px;
@@ -552,31 +526,22 @@ input {
   .about {
     background-image: url(./image/aboutmyselfback.png);
     background-size: cover;
-    display: -webkit-flex;
     display: flex;
     flex-direction: row;
     margin-top: 110px;
     width: 1279px;
     height: 565px;
   }
-  
-  .about-paraghraph {
-    font-size: 25px;
-    width: 585px;
-  }
-
 
   .contact {
     background-image: url(./image/desktop-img/contactformbackgroundshapes.png),
-    url(./image/desktop-img/background.png);
-    background-size: 1440px ,cover;
-  background-repeat: no-repeat;
-  background-color: #fff;
-  height: 718px;
-
+      url(./image/desktop-img/background.png);
+    background-size: 1440px, cover;
+    background-repeat: no-repeat;
+    background-color: #fff;
+    height: 718px;
   }
 
-  
   .h_contact {
     color: #fff;
     font-size: 50px;
@@ -584,16 +549,15 @@ input {
     margin-left: 51px;
     margin-top: 91px;
   }
-  
+
   .contact-body {
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-left: 544px;
     width: 383px;
-    
   }
-  
+
   .contact-paragraph {
     font-size: 22px;
     text-align: center;
@@ -601,7 +565,7 @@ input {
     color: #fff;
     margin-left: 0;
   }
-  
+
   .name,
   .email {
     margin-left: 1px;
@@ -611,7 +575,7 @@ input {
     border-radius: 6px;
     border: 1px solid #cfd8dc;
   }
-  
+
   .text_area {
     margin-left: 1px;
     width: 388px;
@@ -620,7 +584,7 @@ input {
     border: 1px solid #cfd8dc;
     height: 200px;
   }
-  
+
   .contact_btn {
     width: 186px;
     padding: 10px;
@@ -629,11 +593,11 @@ input {
     border: 1px solid #4274f2;
     border-radius: 5px;
   }
-  
+
   .contact_btn:hover {
     background-color: #48f242;
   }
-  
+
   .border_img {
     display: none;
   }
@@ -654,17 +618,6 @@ input {
     margin-right: 408px;
   }
 
-  .about {
-    background-image: url(./image/aboutmyselfback.png);
-    background-size: cover;
-    display: -webkit-flex;
-    display: flex;
-    flex-direction: row;
-    margin-top: 110px;
-    width: 1279px;
-    height: 565px;
-  }
-  
   .left-about {
     flex-direction: column;
     margin-left: 63px;
@@ -677,18 +630,19 @@ input {
     font-size: 58px;
     margin-bottom: 0;
   }
-  
+
   .about-paraghraph {
     color: #344563;
     font-size: 20px;
     font-size: 26px;
+    width: 585px;
   }
-  
+
   .about-connect {
     text-decoration: none;
     color: #7f8cff;
   }
-  
+
   .resume_btn {
     width: 191px;
     padding: 10px;
@@ -697,32 +651,31 @@ input {
     border: 1px solid #4274f2;
     border-radius: 5px;
   }
-  
 
   .lang-list {
     display: flex;
     flex-direction: column;
     margin-top: 60px;
   }
-  
+
   .lang-list li {
     list-style: none;
     padding-bottom: 20px;
     width: 553px;
   }
-  
+
   .item-list {
     margin-top: 68px;
     font-size: 28px;
     font-size: 32px;
   }
-  
+
   .child-list {
     display: flex;
     flex-direction: row;
     padding-left: 0;
   }
-  
+
   .child-list li {
     list-style: none;
     display: inline;
@@ -730,7 +683,7 @@ input {
     width: 145px;
     padding-bottom: 0;
   }
-  
+
   .child-list2 {
     display: flex;
     flex-direction: column;
@@ -738,10 +691,10 @@ input {
     width: 127px;
     height: 103px;
     border-radius: 19px;
-  
   }
+
   .victor {
     float: right;
   }
-  
+
 }

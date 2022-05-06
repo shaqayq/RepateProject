@@ -29,6 +29,7 @@ body {
   background-color: lightblue;
   transform: translateX(180px) rotate(45deg);
   padding: 10px;
+  width: fit-content;
 }
 .nav-item{
   list-style: none;

@@ -141,6 +141,14 @@ body {
   background-color: #fff;
 }
 
+.work_paragraph {
+  transition: background 1s;
+}
+
+.work_paragraph:hover {
+  background: linear-gradient(35deg, grey, azure, grey);
+}
+
 .about {
   display: flex;
   flex-direction: column;

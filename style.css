@@ -36,6 +36,14 @@ body {
   color: #172b4d;
 }
 
+.h_btn {
+  transition: border 1s;
+}
+
+.h_btn:hover {
+  border: 2px solid black;
+}
+
 .paragraph {
   font-size: 20px;
   width: 332px;

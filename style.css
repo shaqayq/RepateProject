@@ -59,6 +59,12 @@ body {
   font-size: 20px;
   width: 332px;
   color: #344563;
+  transition: background 1s, border 2s;
+}
+
+.paragraph:hover {
+  background: linear-gradient(35deg, grey, azure, grey);
+  border: 2px solid rgba(0, 17, 255, 0.384);
 }
 
 .conect_info {

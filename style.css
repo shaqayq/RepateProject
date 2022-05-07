@@ -600,11 +600,11 @@ input {
   .logo {
     margin-right: 408px;
     position: relative;
-    animation-name: example;
+    animation-name: action;
     animation-duration: 4s;
   }
 
-  @keyframes example {
+  @keyframes action {
     0%   {background-color:lightblue; left:0px; top:0px;}
     25%  {background-color:darkblue; left:200px; top:0px;}
    
